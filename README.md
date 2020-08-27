@@ -2,7 +2,7 @@
 
 > A simple project to teach my students in a course on Udemy. Changing it!
 
-Big Picture by HTML5 UP
+Big Picture by HTML5 UP - Change again to test sync
 
 html5up.net | @ajlkn
 
